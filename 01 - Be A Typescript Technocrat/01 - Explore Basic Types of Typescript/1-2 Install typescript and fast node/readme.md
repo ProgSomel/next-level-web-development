@@ -68,10 +68,12 @@ This guide will walk you through installing and setting up **TypeScript** and **
 1. Install TypeScript using npm:
   ```bash
   npm install -g typescript
+  ```
 
 2. Verify it's installed:
   ```bash
   tsc --version
+  ```
 
 
 
