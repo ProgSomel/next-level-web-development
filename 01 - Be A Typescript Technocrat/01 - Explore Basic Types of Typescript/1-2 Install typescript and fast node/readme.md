@@ -41,19 +41,20 @@ This guide will walk you through installing and setting up **TypeScript** and **
 
 
 ### For Windows:
+
 1. If you have Chocolatey installed:
    ```bash
    choco install fnm
 
 2. Or follow the manual instructions on the fnm GitHub page:
-   [fnm]([text](https://github.com/Schniz/fnm#installation))
+   [fnm](https://github.com/Schniz/fnm#installation)
 
 
 ## 🧰 Step 2: Install Node.js using fnm
 1. Install the latest LTS version of Node.js:
-  ```bash
-  fnm install --lts
-  fnm use --lts
+   ```bash
+   fnm install --lts
+   fnm use --lts
 
 2. Confirm it's working:
   ```bash
