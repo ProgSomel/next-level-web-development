@@ -9,7 +9,7 @@
   bros1.push(...bros2);
   ```
 
-- ### with object
+  - ### with object
   ```ts
   const mentors = {
     typescript: "A",
