@@ -60,6 +60,7 @@ This guide will walk you through installing and setting up **TypeScript** and **
   ```bash
   node -v
   npm -v
+---
 
 ## 🧰 Step 3: Install TypeScript Globally
 1. Install TypeScript using npm:
